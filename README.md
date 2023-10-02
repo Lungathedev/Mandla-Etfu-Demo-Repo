@@ -10,40 +10,26 @@ This website application was built for the Mandla Etfu NPO which is a nonprofit 
 
 ## ✨ Web app features
 
-- 
+- Allows individuals to make donations to the nonprofit organization through the integrated online payment methods.
+- Displays the total amount of donations made to the organization in real time.
+- Allows donors to leave a special message on the donation record.
+- Displays a record of all donations made to the organization in real time.
 
+## 📚 Tech stack used
 
-## 📚 Table Of Contents
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- SQL
 
--
+## 🚀 Tools used
 
-## 🚀 Getting Started
+- Heroku
+- AWS Jaws DB
 
--
+## 💪 Mandla Etfu means "Our Strength" in Siswati
 
-#### 📱 Push
-
--
-
-#### 👇 Chat
-
--
-
-#### 📱 In-App
-
--
-
-#### Other (Coming Soon...)
-
-- 
-
-
-## 🛡️ License
-
--
-
-## 💪 Thank you
-
-Thanks a lot 
+Please visit the mandla etfu web app and make a donation to support the cause. Thank you
 
 
