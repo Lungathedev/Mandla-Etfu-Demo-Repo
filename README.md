@@ -1,23 +1,11 @@
-<div align="center">
-  <a href="https://novu.co" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2233092/213641039-220ac15f-f367-4d13-9eaf-56e79433b8c1.png">
-    <img src="https://user-images.githubusercontent.com/2233092/213641043-3bbb3f21-3c53-4e67-afe5-755aeb222159.png" width="280" alt="Logo"/>
-  </picture>
-  </a>
-</div>
 
-<h1 align="center">The open-source notification infrastructure for developers</h1>
+<h1 align="center">Mandla Etfu website application</h1>
 
 <div align="center">
-The ultimate service for managing multi-channel notifications with a single API.
+Documentation
 </div>
 
-<h1 align="center">🎉 We're participating in Hacktoberfest 2023! 🎉</h1>
-
-Interested in participating in Hacktoberfest? We extend a warm invitation! You also get the opportunity to win some swag 😁
-
-> ⭐️ If you're new to Hacktoberfest, you can learn more and register to participate [here](https://hacktoberfest.com/participation/). Registration is from **September 26th - October 31st**.
+> ⭐️ This is the demonstrational github repository for the [mandlaetfu.org.za](https://novu.co/hacktoberfest/) website application.
 
 - Our Hacktoberfest kickoff event is happening on October 2, 2023. 🚀
 - Check out our website for [hacktoberfest instructions](https://novu.co/hacktoberfest/).
